@@ -1,2 +1,2 @@
-# C-Question-practice
+# C++ Question-practice
 My C++ Programming and DSA Practice journey
